@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">trustin_sample</string>
+    <string name="menu_title">trustin MFA Service Sample App</string>
+    <string name="menu_title_1">App Self Test</string>
+    <string name="menu_title_2">trustin Server Connect Test</string>
+    <string name="contents_otp_cust_id">Custom ID</string>
+    <string name="contents_otp_cust_pin">PIN</string>
+    <string name="contents_otp_cust_bio">BIO</string>
+    <string name="contents_msb_version">mSB Version</string>
+    <string name="contents_lib_version">Lib</string>
+    <string name="contents_serialnumber">Serial Number</string>
+    <string name="contents_otp_no">OTP Number</string>
+    <string name="menu_type_1">trustin SDK menu</string>
+    <string name="menu_type_2">mOTP menu(Server Connection)</string>
+    <string name="menu_type_3">HTI (Hashed Transaction Information) request</string>
+    <string name="menu_type_4">BIO menu</string>
+    <string name="trustin_sdk_version">trustin SDK Version</string>
+    <string name="trustin_otp_serial_no">trustin OTP Serial No</string>
+    <string name="menu_otp_issue">OTP issue</string>
+    <string name="menu_reg_otp_gen">1.OTP number create</string>
+    <string name="menu_reg_otp_verify">2.OTP number verify</string>
+    <string name="menu_set_bio">Set BIO</string>
+    <string name="menu_del_bio">Delete BIO</string>
+    <string name="menu_otp_discard">OTP delete</string>
+    <string name="contents_result">contents_result</string>
+    <string name="btn_cancel">cancel</string>
+    <string name="finger_permission_msg">Please accept fingerprint authorization first</string>
+    <string name="bio_permission_msg"> Please accept bio certification authority first</string>
+    <string name="bitmetric_error_msg1">BIOMETRIC_ERROR_HW_UNAVAILABLE</string>
+    <string name="bitmetric_error_msg2">BIOMETRIC_ERROR_NONE_ENROLLED</string>
+    <string name="bitmetric_error_msg3">BIOMETRIC_ERROR_NO_HARDWAR</string>
+    <string name="title">title</string>
+    <string name="subTitle">subTitle</string>
+    <string name="description">description</string>
+    <string name="success">success</string>
+</resources>
